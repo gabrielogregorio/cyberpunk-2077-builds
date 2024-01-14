@@ -12,7 +12,7 @@ Foque em armas que deem dano, se tiver extra de choque, queimadura ou químico, 
 
 Colete armas ocultas no chão, elas podem ficar ocultas e não serem destacadas depois que você enfrentar inimigos, e você poderá perdê-las, elas valem muito dinheiro e dão vários items ao desmontar.
 
-Na desmontagem, você pode montar itens de montagem cat 5 usando items de cat 4 e montar items cat 3 com cat 2, considere isso, às vezes você tem muitos itens de montagem cat 4, por exemplo, ai usando elas, você pode montar alguns cat 5.
+Na desmontagem, você pode montar itens de montagem cat 5 usando items de cat 4 e montar itens cat 3 com cat 2, considere isso. Às vezes, você tem muitos itens de montagem cat 4, por exemplo, ai usando elas, você pode montar alguns cat 5.
 
 Na SUA MOTO OU CARRO, olhe atrás dela, seu inventário estará lá dentro, você não precisa ir à sua casa. Venda ou desmonte seus itens do inventário sempre, isso te garantirá dinheiro constantemente.
 
@@ -32,7 +32,7 @@ Para a build de Sandevistan, esqueça inteligência e hacks, pelo menos na minha
 
 A build de faquinha é excelente para todos os combates de perto ou de distância média. Usando bem, você não precisará de armas de fogo nem mesmo contra o Adam Smasher, mas deixe uma sniper ou arma reserva no seu inventário, algumas situações você não vai conseguir resolver na faquinha.
 
-Se você gosta de espadas, considere fazer um esforço para pegar a espada ERRATA, logo nas primeiras missões, é fácil de perdê-la!
+Se você gosta de espadas, considere fazer um esforço para pegar a espada ERRATA logo nas primeiras missões, é fácil de perdê-la!
 
 Dicas extras:
 Não ataque o medicânico Dedinho, ele tem excelentes implantes. (Acho que não afeta o relacionamento com a Judy, não testei)
@@ -47,11 +47,11 @@ Na negociação com os Maelstrom, não ataque eles, eles têm excelentes implant
 A terceira arma varia, geralmente uso um desses:
 - Machado garra (173 Dano) cat 5++
 - Espada ERRATA icônica, dano de fogo cat 5++ (133 dano por acerto)
-- Sniper Zero-Cinco  icônica  cat 5++  (774 de dano)
+- Sniper Zero-Cinco icônica cat 5++  (774 de dano)
 - Pistola silenciada Sua Majestade (Phantom Liberty) (Dano 100) cat 5++
 - Revolver Laika Cat 5+ (254 de dano) +66 chances de queimadura.
 
-Aviso: A combinação de habilidades, com cibernética, com melhorias nas armas, com bônus extras de experiência, coisas equipadas na arma, acerto na cabeça ou regiões criticas, aumentam ridiculamente o dano da dar arma. Eu lembro de danos do machado Garra causando 2700, mesmo ele tendo só 173 de dano base.
+Aviso: A combinação de habilidades, com cibernética, com melhorias nas armas, com bônus extras de experiência, coisas equipadas na arma, acerto na cabeça ou regiões críticas, aumentam ridiculamente o dano da dar arma. Eu lembro de danos do machado Garra causando 2700, mesmo ele tendo só 173 de dano base.
 
 ### Acesso rápido.
 - Bomba de sangue cat 5++
@@ -62,9 +62,9 @@ Aviso: A combinação de habilidades, com cibernética, com melhorias nas armas,
 - Colete balístico com revestimento de carboneto de silício modificado +25 de armadura.
 
 ### Cibernética.
-Córtex Frontal
+Córtex Frontal.
 - Núcleo mecatrônico cat 5++
-- Axolote cat 5++ iconico
+- Axolote cat 5++ iconico.
 - AutoCai 5++ (para se livrar das trilhas hehe)
 
 Braço:
@@ -75,17 +75,17 @@ Esqueleto.
 - Medula densa cat 5++
 - Estimulante universal cat 5++
 
-Sistema nervoso
+Sistema nervoso.
 - Neofibra cat 5++
 - Ajustado de reflexo cat 5++
-- Adrenogatilho iconico cat 5++
+- Adrenogatilho icônico cat 5++
 
-Pele
-- Inversão periférica cat 5++ iconico.
+Pele.
+- Inversão periférica cat 5++ icônico.
 - SHOCK-N-AWE (PODE CAUSAR 500 de dano quando inimigos de atacam, essa é minha preferida hehe) cat 5++
 - Editor de dor cat 5++
 
-Pernas
+Pernas.
 - Tendões reforçados Cat 5+ (para salto duplo)
 
 Sistema circulatório.
@@ -95,13 +95,13 @@ Sistema circulatório.
 
 Mãos
 - Tatuagem do Jonny cat 1
-- Aguarre firme cat 5++
+- Agarre firme cat 5++
 
-Olhos
+Olhos.
 - Óptica Kiroshi "Espreitador" cat 5++
 
-Sistema operacional
-- "Apogeu" Militech Sandevistan cat 5++ iconico (6s com recarga de 25s), desacelera 85% de dano e vários bonus
+Sistema operacional.
+- "Apogeu" Militech Sandevistan cat 5++ icônico (6s com recarga de 25s), desacelera 85% de dano e vários bonus.
 
 Gerais.
 - Armadura 887
@@ -112,93 +112,111 @@ Gerais.
 Level 60 (máximo)
 Credibilidade 50 (máximo)
 
-Priorize habilidade ténica no 20, depois suba os outros 3 juntos conforme seu estilo de jogo
+Priorize a habilidade técnica no 20, depois suba os outros 3 juntos conforme seu estilo de jogo.
 
 #### Habilidade técnica: 20
 Invista nisso primeiro, prioridade total aqui, para aumentar lucros com vendas e desmontagem, além de usar melhor os recursos e expandir a capacidade cibernética.
-- Sede de guerra
+- Sede de guerra.
 - Primeiros socorros (foque aqui)
-- Transfusão  (foque aqui)
+- Transfusão (foque aqui)
+
+---
 
 - Aberração de vida (máximo) (foque aqui)
-- Tempo emprestado
-- Médico de campo
+- Tempo emprestado.
+- Médico de campo.
 - Tubo cibernético (máximo)
-- Atualização de driver
-- Punk revitalizado
-- Dia de sorte (priorize para extrair, produzir e revender items mais valiosos, grana mais facil)
+- Atualização de driver.
+- Punk revitalizado.
+- Dia de sorte (priorize para extrair, produzir e revender itens mais valiosos, grana mais fácil)
+
+---
 
 - Licença Cromática (máximo)
-- Garantia extendida
-- Ambidestria
-- Ciborgue
+- Garantia estendida.
+- Ambidestria.
+- Ciborgue.
 
-- Edgerunner (PRIORIDADE TOTAL EM CHEGAR AQUI PARA EXPANDIR CIBERNÉRICAS)
+---
+
+- Edgerunner (PRIORIDADE TOTAL EM CHEGAR AQUI PARA EXPANDIR CIBERNÉTICAS)
 
 
-#### Relfexos: 20 Para velocidade e reflexo hehe
+#### Reflexos: 20 Para velocidade e reflexo hehe.
 
-- Escorregadio
-- Memória muscular
-- Multitarefa
-- Super deslizada
-- Parkour
+- Escorregadio.
+- Memória muscular.
+- Multitarefa.
+- Super deslizada.
+- Parkour.
 
-- Avanço (máximo) - PRIORIZE ESSE
-- Comigo ninguém pode
-- Pulso firme
-- Sequência Bruta
-- Avanço doido
-- Visão dobrada
-- Chumbo e aço
+---
+
+- Avanço (máximo) - PRIORIZE ESSE.
+- Comigo ninguém pode.
+- Pulso firme.
+- Sequência Bruta.
+- Avanço doido.
+- Visão dobrada.
+- Chumbo e aço.
+
+---
 
 - Avanço Aéreo (máximo)
-- Aerodinâmica
-- Acrobacia aérea
-- Finalizador Espadachin (máximo)
-- Essa vai longe
-- Clarão de Aço
-- Oportunista
-  
-- Vento a Favor
-- Sanguinário
+- Aerodinâmica.
+- Acrobacia aérea.
+- Finalizador Espadachim (máximo)
+- Essa vai longe.
+- Clarão de Aço.
+- Oportunista.
 
-#### Corpo: 16 (Para combates com inimigos extremamente fortes ou em enorme quantidade)
-Para tancar dano extremo, para com
-- Analgésico
-- Vício em velocidade
-- Exército de uma pessoa só
-- Duro na queda
-- Vício em endorfina
-E
+---
+
+- Vento a Favor.
+- Sanguinário.
+
+#### Corpo: 16 (Para combates com inimigos extremamente fortes ou em enorme quantidade).
+- Analgésico.
+- Vício em velocidade.
+- Exército de uma pessoa só.
+- Duro na queda.
+- Vício em endorfina.
+
+---
+
 - Descarga de adrenalina (máximo)
-- Jamanta
-
-Testando minha build com Sandevistan e faquinhas arremessáveis contra a Max Tac SEM MODS, e no modo mais difícil.
+- Jamanta.
 
 ### Moral
-- Perícia felina
-- Instinto assasino
-- Ordem e silêncio
-- Fuga rápida
 
-- Picada de escorpião
-- Absorção de toxina acelerada
-- Parasita
-- Neurotoxina
+- Perícia felina.
+- Instinto assassino.
+- Ordem e silêncio.
+- Fuga rápida.
+
+---
+
+- Picada de escorpião.
+- Absorção de toxina acelerada.
+- Parasita.
+- Neurotoxina.
+
+---
 
 - Malabarista (máximo)
-- passar adiante
-- Finalizador misericordia
-- Mão leve
-- Salto predador
-- ninjutso
+- passar adiante.
+- Finalizador misericordia.
+- Mão leve.
+- Salto predador.
+- ninjutso.
 
-- Estilo acima de substância
+---
+
+- Estilo acima de substância.
 
 ### Habilidades
 - Matador 60
 - Trilha 36
-- Shinobi (55) - Farmei muito esse andando de ponto a ponto sem precisar de veiculos hehe
+- Shinobi (55) - Farmei muito esse andando de ponto a ponto sem precisar de veículos hehe
 - Frila (34)
 - Engenheiro (60)

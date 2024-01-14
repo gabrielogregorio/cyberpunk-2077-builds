@@ -220,3 +220,11 @@ Invista nisso primeiro, prioridade total aqui, para aumentar lucros com vendas e
 - Shinobi (55) - Farmei muito esse andando de ponto a ponto sem precisar de veículos hehe
 - Frila (34)
 - Engenheiro (60)
+
+## Resultado
+
+Com essa build, consegui enfrentar todos os inimigos do jogo e quase limpei o mapa. Alguns Cyberpsicopatas foram resolvidos em uns 5 segundos hahah, e com outras builds eu tinha virado vários e vários minutos.
+
+Além disso, consegui tancar a Max Tac, mesmo correndo igual louco entre eles. (CUIDADO com as lâminas deles, usem o sandevistan mais as habilidades de velocidade para fugir disso, umas duas e você já era.)
+
+Alguns inimigos também têm sandevistan, e podem fugir das faquinhas, sendo necessário ter uma arma e usar algumas estratégias como granadas ou atirar quando eles tiverem no modo de recarga. 
